@@ -369,8 +369,8 @@ This project was developed by a **team of 5 members**, where each member contrib
   member 1 - P.Kasturi    
   member 2 - S.Krishnapiriyan    
   member 3 - V.Vanushan  
-  member 4 - T.Harishlan 
-  member 5 - V.Khaviya  
+  member 4 - T.Harishlan   
+  member 5 - V.Khaviya    
   member 5 - K.Kajaluxmy  
 
 
